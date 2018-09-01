@@ -77,9 +77,9 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
     
     <item>
       <title>myCAT</title>
-      <link>http://example.org/fr/sofware/mycat/</link>
+      <link>http://example.org/fr/software/mycat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/sofware/mycat/</guid>
+      <guid>http://example.org/fr/software/mycat/</guid>
       <description>&lt;p&gt;myCAT est un concordancier, c&amp;rsquo;est-à-dire un moteur de recherche qui, en plus d&amp;rsquo;afficher des documents pertinents, montre également leur traduction (s&amp;rsquo;ils ont déjà été traduits) et aligne automatiquement les versions en langue source et en langue cible sur les occurrences des termes recherchés.&lt;/p&gt;
 
 &lt;p&gt;myCAT comporte deux modules :&lt;/p&gt;
@@ -106,9 +106,9 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
     
     <item>
       <title>myMT</title>
-      <link>http://example.org/fr/sofware/mymt/</link>
+      <link>http://example.org/fr/software/mymt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/sofware/mymt/</guid>
+      <guid>http://example.org/fr/software/mymt/</guid>
       <description>&lt;p&gt;myMT est un outil de traduction automatique basé sur le logiciel libre de traduction statistique &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;. Une démonstration est accessible ici (&lt;a href=&#34;http://srv2.olanto.org/WebTranslator/&#34;&gt;Demo&lt;/a&gt;) (la démonstration est basée sur le corpus Textes parallèles multilingues 2000-2009 des Nations Unies  anglais/français).&lt;/p&gt;
 
 &lt;p&gt;myMT est composé de deux parties : les serveurs de traduction (back-end) et le serveur de gestion (front-end).  Sur les serveurs de traduction sont stockés les modèles de traduction et assurent la traduction. Le serveur de gestion assure le découpage en phrase des textes à traduire et gère les traductions en fonction des langues.&lt;/p&gt;
@@ -134,9 +134,9 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
     
     <item>
       <title>myPREP</title>
-      <link>http://example.org/fr/sofware/myprep/</link>
+      <link>http://example.org/fr/software/myprep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/sofware/myprep/</guid>
+      <guid>http://example.org/fr/software/myprep/</guid>
       <description>&lt;p&gt;myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.&lt;/p&gt;
 
 &lt;p&gt;myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format Moses (link is external)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.&lt;/p&gt;

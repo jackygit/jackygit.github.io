@@ -76,9 +76,9 @@
     
     <item>
       <title>myCAT</title>
-      <link>http://example.org/sofware/mycat/</link>
+      <link>http://example.org/software/mycat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/sofware/mycat/</guid>
+      <guid>http://example.org/software/mycat/</guid>
       <description>&lt;p&gt;myCAT is a concordancer, i.e. a full-text search engine which, in addition to showing the relevant documents, also shows their translation (if they were previously translated) and automatically aligns the source and target language versions on the occurrences of the terms which is being searched.&lt;/p&gt;
 
 &lt;p&gt;myCAT includes two modules:&lt;/p&gt;
@@ -105,9 +105,9 @@
     
     <item>
       <title>myMT</title>
-      <link>http://example.org/sofware/mymt/</link>
+      <link>http://example.org/software/mymt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/sofware/mymt/</guid>
+      <guid>http://example.org/software/mymt/</guid>
       <description>&lt;p&gt;myMT is an automatic translation tool based on &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;, i.e. the open-source statistical translation software. A demonstration version is available here (&lt;a href=&#34;http://srv2.olanto.org/WebTranslator/&#34;&gt;Demo&lt;/a&gt;) (the demonstration is based on The United Nations&amp;rsquo; Multilingual Parallel Text 2000-2009 , English/French).&lt;/p&gt;
 
 &lt;p&gt;myMT is composed of two parts: the translation servers (back-end) and the management server (front-end). The translation models are stored on the translation servers that are responsible for the translation. The management server is responsible for the division into sentences of texts to be translated and manages the translations depending on the languages.&lt;/p&gt;
@@ -133,9 +133,9 @@
     
     <item>
       <title>myPREP</title>
-      <link>http://example.org/sofware/myprep/</link>
+      <link>http://example.org/software/myprep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/sofware/myprep/</guid>
+      <guid>http://example.org/software/myprep/</guid>
       <description>&lt;p&gt;myPREP is a text aligner software, a tool which makes possible to automatically align two by two the documents in a multilingual corpus. The outcome of the alignment is a translation memory in TMX format. The alignment is done at the sentence level.&lt;/p&gt;
 
 &lt;p&gt;Thanks to myPREP, the production of training corpus for statistical translation is also possible (in Moses (link is external) format). Such corpora are divided into several parts for the training, the tuning and the evaluation.&lt;/p&gt;

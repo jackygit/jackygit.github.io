@@ -75,17 +75,17 @@
   </url>
   
   <url>
-    <loc>http://example.org/fr/sofware/</loc>
+    <loc>http://example.org/fr/software/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/sofware/"
+                href="http://example.org/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/sofware/"
+                href="http://example.org/fr/software/"
                 />
   </url>
   
@@ -105,44 +105,44 @@
   </url>
   
   <url>
-    <loc>http://example.org/fr/sofware/mycat/</loc>
+    <loc>http://example.org/fr/software/mycat/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/sofware/mycat/"
+                href="http://example.org/software/mycat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/sofware/mycat/"
+                href="http://example.org/fr/software/mycat/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/sofware/mymt/</loc>
+    <loc>http://example.org/fr/software/mymt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/sofware/mymt/"
+                href="http://example.org/software/mymt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/sofware/mymt/"
+                href="http://example.org/fr/software/mymt/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/sofware/myprep/</loc>
+    <loc>http://example.org/fr/software/myprep/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/sofware/myprep/"
+                href="http://example.org/software/myprep/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/sofware/myprep/"
+                href="http://example.org/fr/software/myprep/"
                 />
   </url>
   
