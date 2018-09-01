@@ -7,7 +7,7 @@
 <meta name="created" content="0001-01-01T00:00:00&#43;0000">
 <meta name="modified" content="0001-01-01T00:00:00&#43;0000">
 <meta name="author" content="Olanto">
-<meta name="description" content="myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase. myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format Moses (link is external)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.">
+<meta name="description" content="&lt;p&gt;myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.&lt;/p&gt;">
 <meta property="og:site_name" content="Olanto Fondation">
 <meta property="og:title" content="myPREP">
 <meta property="og:url" content="http://example.org/fr/software/myprep/">
@@ -26,7 +26,7 @@
     "datePublished": "0001-01-01T00:00:00Z",
     "dateModified": "0001-01-01T00:00:00Z",
     "url" : "http://example.org/fr/software/myprep/",
-    "description": "myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase. myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format Moses (link is external)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.",
+    "description": "\u003cp\u003emyPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.\u003c/p\u003e",
     "author": {
       "@type": "Person",
       "name": "Olanto"
@@ -86,7 +86,7 @@
 <div class="content">
 <p>myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.</p>
 
-<p>myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format Moses (link is external)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.</p>
+<p>myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format <a href="https://www.statmt.org/moses/">Moses</a>). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.</p>
 
 <p>myPREP permet aussi l’alignement de corpus comparables. Le résultat de l’alignement est un ensemble de pair de phrases associés à un score, le nombre de termes alignés, la longueur des phrases. Ces paramètres permettent de filtrer les alignements.</p>
 
@@ -94,12 +94,97 @@
 
 <p>myPREP peut être installé aussi bien sous Windows que sous GNU/Linux (testé sous Ubuntu 12.04 LTS); les liens correspondants sont proposés ci-dessous. Quant aux sources, elles sont identiques pour les deux versions.</p>
 
+<h2 id="téléchargements">Téléchargements</h2>
+
+<p>myPREP 2.0 pour Windows et GNU/Linux
+(testé sur Windows 7, Windows 2008 Server, Ubuntu 12.04 LTS)</p>
+
+<p>Les fichiers d&rsquo;installation de myPREP peuvent être téléchargés  <a href="http://srv3.olanto.org/download/myPREP/MYPREP.zip">download</a> (62 Mo).</p>
+
 <ul>
-<li>Téléchargements  (journal)</li>
-<li>Documentation</li>
-<li>Sources AGPL v3 @GitHub (link is external)</li>
+<li>SHA1 key: ed84e05ec106527e1c557836a9a817a8</li>
 </ul>
 
+<h3 id="outils-pour-windows">Outils pour Windows</h3>
+
+<p>Les logiciels Java, Tomcat et OpenOffice peuvent être téléchargés ici <a href="http://srv3.olanto.org/download/myPREP/MYPREP.zip">download</a> (232 Mb). Il est recommandé de n&rsquo;employer que ces distributions afin de disposer de la version requise</p>
+
+<ul>
+<li>SHA1 key: 2B7DE1A6590E04B241A679451952256834A6C21B</li>
+</ul>
+
+<h3 id="outils-pour-gnu-linux">Outils pour GNU/Linux</h3>
+
+<p>Les logiciels Java, Tomcat et OpenOffice peuvent être téléchargés <a href="http://srv3.olanto.org/download/win/install/Tools.zip">ici</a> (171 Mb). Il est recommandé de n&rsquo;employer que ces distributions afin de disposer de la version requise</p>
+
+<ul>
+<li>SHA1 key: 2B8071CF3F26C202BB7B0BE1AFD5DC2F21221614</li>
+</ul>
+
+<p>La procédure permettant d&rsquo;effectuer une installation classique de myPREP est décrite  <a href="https://olanto.github.io/docs/Installing_myPREP_V2.0_EN.pdf">ici (anglais)</a>.</p>
+
+<h3 id="ajouter-des-cartes-d-alignement">Ajouter des Cartes d&rsquo;alignement</h3>
+
+<p>La version de base de myCAT est livrée avec les cartes d&rsquo;alignement suivantes: anglais-arabe, anglais-espagnol, anglais-français, anglais-portugais et anglais-russe. Il est possible d&rsquo;ajouter les paires de langues suivantes :</p>
+
+<p>Anglais-Allemand <a href="http://srv3.olanto.org/download/maps/ENDE.zip">here</a>
+Anglais-Chinois <a href="http://srv3.olanto.org/download/maps/ENZH.zip">here</a></p>
+
+<p>Veuillez lire la documentation : Ajouter des Cartes d&rsquo;alignement dans la documentation de myCAT.</p>
+
+<h2 id="changelog">changelog</h2>
+
+<p>Détail des modifications</p>
+
+<p>Version 2.0 Date: 25 June 2013
+* Initial release</p>
+
+<h2 id="source-licence">source &amp; licence</h2>
+
+<p>Licence AGPL v3 - sources <a href="https://github.com/olanto/MYPREP">@GitHub</a></p>
+
+<h2 id="documentation">Documentation</h2>
+
+<h3 id="installation-de-myprep">Installation de myPREP</h3>
+
+<ul>
+<li>myPREP pour Windows  (<a href="http://srv3.olanto.org/download/documentation/prerequise_window_install.pdf">prérequis ici</a> , en anglais)
+La procédure permettant d&rsquo;effectuer une installation classique de myPREP sur un serveur dédié équipé de Windows est décrite ici (<a href="http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf">installer</a> en anglais).</li>
+<li>myPREP pour GNU/Linux  (<a href="http://srv3.olanto.org/download/documentation/prerequise_linux_install.pdf">prérequis ici</a> , en anglais)
+La procédure permettant d&rsquo;effectuer une installation classique de myPREP sur un serveur dédié équipé de Ubuntu 12.04 LTS est décrite ici (<a href="http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf">installer</a>).</li>
+</ul>
+
+<h3 id="ajouter-des-cartes-d-alignement-1">Ajouter des Cartes d&rsquo;alignement</h3>
+
+<p>La version de base de myCAT est livrée avec les cartes d&rsquo;alignement suivantes:</p>
+
+<ul>
+<li>anglais-arabe</li>
+<li>anglais-espagnol</li>
+<li>anglais-français</li>
+<li>anglais-portugais</li>
+<li>anglais-russe</li>
+</ul>
+
+<p>Il est possible d&rsquo;ajouter les paires de langues suivantes :</p>
+
+<ul>
+<li>anglais-allemand</li>
+<li>anglais-chinois (expérimental, tous les commentaires sont les bienvenus)</li>
+</ul>
+
+<p>Il suffit de télécharger ces fichiers et de les décompresser dans le dossier :</p>
+
+<ul>
+<li>pour Windows:  C:\MYCAT\map</li>
+<li>pour GNU/Linux:  ~/MYCAT/map</li>
+</ul>
+
+<h3 id="règles-de-nommage-des-documents">Règles de nommage des documents</h3>
+
+<p>Le corpus de documents bi-textes qui sera exploité par <a href="/software/myMT.en.md">myMT</a> doit être conforme aux <a href="http://srv3.olanto.org/download/documentation/myCAT_doc_specs.pdf">spécifications suivantes</a>.</p>
+
+<p>Cette distribution de myMT contient un très petit corpus de 48 documents qui permet de tester l&rsquo;application dans les six langues suivantes: anglais, français, espagnol, russe, arabe et chinois. Ces documents sont organisés en trois collections: ONU (UNO), OMPI (WIPO) et OMC (WTO). Ce sont tous des documents publics qui ont été téléchargés depuis le site respectif de ces organisations.</p>
 
 </div>
 </article>
@@ -111,6 +196,7 @@
 <section>
 <h4 class="menu"><a class="" href="/fr/foundation/">Foundations</a></h4>
 <ul class="menu">
+<li><a class="" href="/fr/foundation/communication/">Communication</a></li>
 <li><a class="" href="/fr/foundation/contact/">Contact</a></li>
 <li><a class="" href="/fr/foundation/foundation/">Fondation</a></li>
 </ul>

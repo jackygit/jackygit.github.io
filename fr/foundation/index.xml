@@ -9,11 +9,30 @@
     <atom:link href="http://example.org/fr/foundation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Communication</title>
+      <link>http://example.org/fr/foundation/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/fr/foundation/communication/</guid>
+      <description>&lt;p&gt;Communications sur les projets Olanto&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AsLing 36 - 2014  on terminology  (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Asling-2014.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ToTh - 2015  on terminology explorer (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/how2say%20terminogy%20explorer%20TOTh2015.pdf&#34;&gt;FR document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;TAO - 2015  on alignement (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Olanto-Alignement%20TAO2015.pdf&#34;&gt;FR document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;DTT - 2016  on terminology (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Terminology%20Management-%20New%20Perspectives%20Symp-DTT-2016.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;WIPO - 2017  on automatic classification (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/AutomaticCategorization2017.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ICSDV 2018  on automatic classification (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/IPCCAT_ICSDV_2018.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://example.org/fr/foundation/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/fr/foundation/contact/</guid>
-      <description>
+      <description>&lt;p&gt;Informations pour contacter Olanto&lt;/p&gt;
 
 &lt;h2 id=&#34;mail&#34;&gt;mail&lt;/h2&gt;
 
@@ -31,8 +50,7 @@
 
 &lt;h2 id=&#34;identification&#34;&gt;identification&lt;/h2&gt;
 
-&lt;p&gt;Numéro d&amp;rsquo;identification fédéral Suisse : CH-660.1.763.012-1&lt;/p&gt;
-</description>
+&lt;p&gt;Numéro d&amp;rsquo;identification fédéral Suisse : CH-660.1.763.012-1&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,9 +58,7 @@
       <link>http://example.org/fr/foundation/foundation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/fr/foundation/foundation/</guid>
-      <description>
-
-&lt;p&gt;Olanto est une Fondation de droit suisse à but non lucratif. Elle est située à Genève mais elle est sous la responsabilité de la Confédération helvétique, à laquelle elle présente son rapport d&amp;rsquo;activité.
+      <description>&lt;p&gt;Olanto est une Fondation de droit suisse à but non lucratif. Elle est située à Genève mais elle est sous la responsabilité de la Confédération helvétique, à laquelle elle présente son rapport d&amp;rsquo;activité.
 Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Comité de soutien et un Comité d&amp;rsquo;experts.&lt;/p&gt;
 
 &lt;p&gt;Olanto a pour mission de créer et distribuer des logiciels libres dans les domaines de la traduction assistée par ordinateur (TAO), de la traduction automatique (TA), de la recherche multilingue et d&amp;rsquo;autres domaines liés aux langues.  Olanto est l&amp;rsquo;acronyme de l&amp;rsquo;expression anglaise &amp;ldquo;Open Language Tools&amp;rdquo; (outils libres de traitement des langues).&lt;/p&gt;
@@ -61,7 +77,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 
 &lt;h3 id=&#34;static-alexandre-jpg-alexandre-poltorak&#34;&gt;&lt;img src=&#34;http://example.org/static/alexandre.jpg&#34; alt=&#34;&#34; /&gt;      Alexandre Poltorak&lt;/h3&gt;
 
-&lt;p&gt;M. Poltorak a fondé une entreprise appelée Alsenet. Il est aussi vice-président de la Free IT Foundation à Genève et directeur du marketing d&amp;rsquo;une entreprise américaine appelée Elphel Inc. qui construit des caméras en associant logiciel et matériel libres.&lt;/p&gt;
+&lt;p&gt;M. Poltorak a fondé une entreprise appelée &lt;a href=&#34;https://www.alsenet.com/&#34;&gt;Alsenet&lt;/a&gt;. Il est aussi vice-président de la &lt;a href=&#34;https://free-it-foundation.org/&#34;&gt;Free IT Foundation&lt;/a&gt; à Genève et directeur du marketing d&amp;rsquo;une entreprise américaine appelée &lt;a href=&#34;https://www.elphel.com/&#34;&gt;Elphel Inc.&lt;/a&gt; qui construit des caméras en associant logiciel et matériel libres.&lt;/p&gt;
 
 &lt;h3 id=&#34;static-gilles-jpg-prof-gilles-falquet&#34;&gt;&lt;img src=&#34;http://example.org/static/gilles.jpg&#34; alt=&#34;&#34; /&gt;         Prof. Gilles Falquet&lt;/h3&gt;
 
@@ -71,8 +87,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 
 &lt;h3 id=&#34;static-nizar-jpg-dr-nizar-ghoula&#34;&gt;&lt;img src=&#34;http://example.org/static/nizar.jpg&#34; alt=&#34;&#34; /&gt; Dr. Nizar Ghoula&lt;/h3&gt;
 
-&lt;p&gt;Nizar (développeur Java/GWT Senior) détient un doctorat en Systèmes d&amp;rsquo;information de l&amp;rsquo;Université de Genève (Suisse). Ses domaines d&amp;rsquo;intérêt sont notamment le web sémantique, la représentation des connaissances, la recherche d&amp;rsquo;information et l&amp;rsquo;alignement des ontologies. Nizar est un très bon développeur Java/GWT qui contribue activement à l&amp;rsquo;effort de développement de la Fondation.&lt;/p&gt;
-</description>
+&lt;p&gt;Nizar (développeur Java/GWT Senior) détient un doctorat en Systèmes d&amp;rsquo;information de l&amp;rsquo;Université de Genève (Suisse). Ses domaines d&amp;rsquo;intérêt sont notamment le web sémantique, la représentation des connaissances, la recherche d&amp;rsquo;information et l&amp;rsquo;alignement des ontologies. Nizar est un très bon développeur Java/GWT qui contribue activement à l&amp;rsquo;effort de développement de la Fondation.&lt;/p&gt;</description>
     </item>
     
   </channel>

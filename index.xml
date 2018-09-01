@@ -9,11 +9,30 @@
     <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Communication</title>
+      <link>http://example.org/foundation/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/foundation/communication/</guid>
+      <description>&lt;p&gt;Communications about Olanto&amp;rsquo;s projects&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AsLing 36 - 2014  on terminology  (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Asling-2014.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ToTh - 2015  on terminology explorer (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/how2say%20terminogy%20explorer%20TOTh2015.pdf&#34;&gt;FR document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;TAO - 2015  on alignement (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Olanto-Alignement%20TAO2015.pdf&#34;&gt;FR document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;DTT - 2016  on terminology (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Terminology%20Management-%20New%20Perspectives%20Symp-DTT-2016.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;WIPO - 2017  on automatic classification (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/AutomaticCategorization2017.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ICSDV 2018  on automatic classification (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/IPCCAT_ICSDV_2018.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://example.org/foundation/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/foundation/contact/</guid>
-      <description>
+      <description>&lt;p&gt;Informations to contact Olanto&lt;/p&gt;
 
 &lt;h2 id=&#34;mail&#34;&gt;Mail&lt;/h2&gt;
 
@@ -31,8 +50,7 @@
 
 &lt;h2 id=&#34;identification&#34;&gt;Identification&lt;/h2&gt;
 
-&lt;p&gt;Swiss federal identification number: CH-660.1.763.012-1&lt;/p&gt;
-</description>
+&lt;p&gt;Swiss federal identification number: CH-660.1.763.012-1&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,9 +58,7 @@
       <link>http://example.org/foundation/foundation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/foundation/foundation/</guid>
-      <description>
-
-&lt;p&gt;Olanto is a not-for-profit Foundation managed under the Swiss law. Its headquarters are in Geneva, Switzerland but the Foundation is placed under the responsibility of the Swiss Confederation, to which it ultimately reports.&lt;/p&gt;
+      <description>&lt;p&gt;Olanto is a not-for-profit Foundation managed under the Swiss law. Its headquarters are in Geneva, Switzerland but the Foundation is placed under the responsibility of the Swiss Confederation, to which it ultimately reports.&lt;/p&gt;
 
 &lt;p&gt;Olanto is managed by a Foundation Board, which is helped by a Support Committee and a Committee of Experts.&lt;/p&gt;
 
@@ -60,7 +76,7 @@
 
 &lt;h3 id=&#34;static-alexandre-jpg-alexandre-poltorak&#34;&gt;&lt;img src=&#34;http://example.org/static/alexandre.jpg&#34; alt=&#34;&#34; /&gt;      Alexandre Poltorak&lt;/h3&gt;
 
-&lt;p&gt;Alexandre is the founder of a company called Alsenet (link is external)and he is the vice-president of the Free IT Foundation (link is external) in Geneva. He is also Marketing Director of a US company called Elphel Inc. (link is external) which builds cameras and combines free software and open hardware.&lt;/p&gt;
+&lt;p&gt;Alexandre is the founder of a company called &lt;a href=&#34;https://www.alsenet.com/&#34;&gt;Alsenet&lt;/a&gt; and he is the vice-president of the &lt;a href=&#34;https://free-it-foundation.org/&#34;&gt;Free IT Foundation&lt;/a&gt; in Geneva. He is also Marketing Director of a US company called &lt;a href=&#34;https://www.elphel.com/&#34;&gt;Elphel Inc.&lt;/a&gt; which builds cameras and combines free software and open hardware.&lt;/p&gt;
 
 &lt;h3 id=&#34;static-gilles-jpg-prof-gilles-falquet&#34;&gt;&lt;img src=&#34;http://example.org/static/gilles.jpg&#34; alt=&#34;&#34; /&gt;         Prof. Gilles Falquet&lt;/h3&gt;
 
@@ -70,8 +86,7 @@
 
 &lt;h3 id=&#34;static-nizar-jpg-dr-nizar-ghoula&#34;&gt;&lt;img src=&#34;http://example.org/static/nizar.jpg&#34; alt=&#34;&#34; /&gt; Dr. Nizar Ghoula&lt;/h3&gt;
 
-&lt;p&gt;Nizar (Senior Java/GWT developer) holds a PhD in Information Systems from the University of Geneva (Switzerland). His fields of interest include the semantic web, knowledge representation, Information retrieval and ontology alignment. A very good Java/GWT developer, he is an active contributor to Olanto&amp;rsquo;s development effort.&lt;/p&gt;
-</description>
+&lt;p&gt;Nizar (Senior Java/GWT developer) holds a PhD in Information Systems from the University of Geneva (Switzerland). His fields of interest include the semantic web, knowledge representation, Information retrieval and ontology alignment. A very good Java/GWT developer, he is an active contributor to Olanto&amp;rsquo;s development effort.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -99,8 +114,7 @@
 &lt;li&gt;Downloads  (changelog)&lt;/li&gt;
 &lt;li&gt;Documentation&lt;/li&gt;
 &lt;li&gt;AGPL v3 sources @GitHub (link is external)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -127,8 +141,7 @@
 &lt;li&gt;Downloads  (changelog)&lt;/li&gt;
 &lt;li&gt;Documentation&lt;/li&gt;
 &lt;li&gt;AGPL v3 sources @GitHub (link is external)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -138,7 +151,7 @@
       <guid>http://example.org/software/myprep/</guid>
       <description>&lt;p&gt;myPREP is a text aligner software, a tool which makes possible to automatically align two by two the documents in a multilingual corpus. The outcome of the alignment is a translation memory in TMX format. The alignment is done at the sentence level.&lt;/p&gt;
 
-&lt;p&gt;Thanks to myPREP, the production of training corpus for statistical translation is also possible (in Moses (link is external) format). Such corpora are divided into several parts for the training, the tuning and the evaluation.&lt;/p&gt;
+&lt;p&gt;Thanks to myPREP, the production of training corpus for statistical translation is also possible (in &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt; format). Such corpora are divided into several parts for the training, the tuning and the evaluation.&lt;/p&gt;
 
 &lt;p&gt;myPREP also makes possible the alignment of comparable corpora. The outcome of the alignment is a set of pair of sentences associated with a score, the number of aligned terms, and the length of sentences. These functions can control the alignments.&lt;/p&gt;
 
@@ -146,12 +159,85 @@
 
 &lt;p&gt;myPREP is available for both Windows and for GNU/Linux (Ubuntu 12.04); please find the links to the respective installation files below. As for the sources, they are the same for both versions.&lt;/p&gt;
 
+&lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
+
+&lt;p&gt;myPREP 2.0 for Windows and GNU/Linux (tested on Windows 7, Windows 2008 Server, Ubuntu 12.04 LTS)&lt;/p&gt;
+
+&lt;p&gt;The myPREP installation files can be downloaded &lt;a href=&#34;http://srv3.olanto.org/download/myPREP/MYPREP.zip&#34;&gt;download&lt;/a&gt; (62 Mo).&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Downloads  (changelog)&lt;/li&gt;
-&lt;li&gt;Documentation&lt;/li&gt;
-&lt;li&gt;AGPL v3 sources @GitHub (link is external)&lt;/li&gt;
+&lt;li&gt;SHA1 key: ed84e05ec106527e1c557836a9a817a8&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+
+&lt;h3 id=&#34;tools-for-windows&#34;&gt;Tools for Windows&lt;/h3&gt;
+
+&lt;p&gt;The Java, Tomcat and OpenOffice applications are to be downloaded here &lt;a href=&#34;http://srv3.olanto.org/download/myPREP/MYPREP.zip&#34;&gt;download&lt;/a&gt; (232 Mb). Please use only these distribution of the applications so as to make sure you have the required version.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SHA1 key: 2B7DE1A6590E04B241A679451952256834A6C21B&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;tools-for-gnu-linux&#34;&gt;Tools for GNU/Linux&lt;/h3&gt;
+
+&lt;p&gt;The OpenOffice file is to be downloaded &lt;a href=&#34;http://srv3.olanto.org/download/win/install/Tools.zip&#34;&gt;here&lt;/a&gt; (171 Mb). Please use only this distribution of the application so as to make sure you have the required version&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SHA1 key: 2B8071CF3F26C202BB7B0BE1AFD5DC2F21221614&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The procedure to perform a standard installation of myPREP is described &lt;a href=&#34;https://olanto.github.io/docs/Installing_myPREP_V2.0_EN.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;additional-alignment-maps&#34;&gt;Additional Alignment Maps&lt;/h3&gt;
+
+&lt;p&gt;myCAT originally comes with the following alignment maps: English-Arabic, English-French, English-Portuguese, English-Russian, English-Spanish. It is possible to add the following language pairs:&lt;/p&gt;
+
+&lt;p&gt;English-German &lt;a href=&#34;http://srv3.olanto.org/download/maps/ENDE.zip&#34;&gt;here&lt;/a&gt;
+English-Chinese &lt;a href=&#34;http://srv3.olanto.org/download/maps/ENZH.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please read the documentation: Adding Alignment Maps in myCAT documentation.&lt;/p&gt;
+
+&lt;h2 id=&#34;changelog&#34;&gt;changelog&lt;/h2&gt;
+
+&lt;p&gt;This document details the bug fixes and improvements in each new release of the myPREP software.&lt;/p&gt;
+
+&lt;p&gt;Version 2.0 Date: 25 June 2013
+* Initial release&lt;/p&gt;
+
+&lt;h2 id=&#34;source-licence&#34;&gt;source &amp;amp; licence&lt;/h2&gt;
+
+&lt;p&gt;Licence AGPL v3 - sources &lt;a href=&#34;https://github.com/olanto/MYPREP&#34;&gt;@GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+
+&lt;h3 id=&#34;installation-of-myprep&#34;&gt;Installation of myPREP&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;myPREP for Windows  (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/prerequise_window_install.pdf&#34;&gt;prerequisites here&lt;/a&gt;)
+The procedure to perform a standard installation of myPREP on a dedicated server running Windows is described here &lt;a href=&#34;http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf&#34;&gt;install&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;myPREP for GNU/Linux  (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/prerequise_linux_install.pdf&#34;&gt;prerequisites here&lt;/a&gt;)
+The procedure to perform a standard installation of myPREP on a dedicated server running Ubuntu 12.04 LTS is described here &lt;a href=&#34;http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf&#34;&gt;install&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;adding-alignment-maps&#34;&gt;Adding Alignment Maps&lt;/h3&gt;
+
+&lt;p&gt;myCAT originally comes with the following alignment maps:
+* English-Arabic
+* English-French
+* English-Portuguese
+* English-Russian
+* English-Spanish
+It is possible to add the following language pairs:
+* English-German
+* English-Chinese(experimental, all comments welcome)&lt;/p&gt;
+
+&lt;p&gt;Simply download them and unzip them to:
+* for Windows:  C:\MYCAT\map
+* for GNU/Linux:  ~/MYCAT/map&lt;/p&gt;
+
+&lt;h3 id=&#34;document-naming-rules&#34;&gt;Document Naming Rules&lt;/h3&gt;
+
+&lt;p&gt;The corpus of bi-text documents to be used with &lt;a href=&#34;http://example.org/software/myMT.en.md&#34;&gt;myMT&lt;/a&gt; should comply with the &lt;a href=&#34;http://srv3.olanto.org/download/documentation/myCAT_doc_specs.pdf&#34;&gt;following specifications&lt;/a&gt;.
+This myMT distribution comes with a very small test corpus of 48 documents allowing to test the following six languages: English, French, Spanish, Arabic, Russian and Chinese. These documents are organized in three collections: UNO, WIPO and WTO. They are all public documents which were downloaded from those organization&amp;rsquo;s websites.&lt;/p&gt;</description>
     </item>
     
   </channel>

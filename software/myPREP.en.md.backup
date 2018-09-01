@@ -1,0 +1,87 @@
+---
+title: "myPREP"
+author: "Olanto"
+
+---
+
+myPREP is a text aligner software, a tool which makes possible to automatically align two by two the documents in a multilingual corpus. The outcome of the alignment is a translation memory in TMX format. The alignment is done at the sentence level.<!--more-->
+
+Thanks to myPREP, the production of training corpus for statistical translation is also possible (in [Moses](https://www.statmt.org/moses/) format). Such corpora are divided into several parts for the training, the tuning and the evaluation.
+
+myPREP also makes possible the alignment of comparable corpora. The outcome of the alignment is a set of pair of sentences associated with a score, the number of aligned terms, and the length of sentences. These functions can control the alignments.
+
+myPREP requires segmented documents corpora in UTF-8 format. The converter and the segmentation tool of the myCAT software are included in the installation of myPREP.
+
+myPREP is available for both Windows and for GNU/Linux (Ubuntu 12.04); please find the links to the respective installation files below. As for the sources, they are the same for both versions.
+ 
+## Downloads
+
+
+myPREP 2.0 for Windows and GNU/Linux (tested on Windows 7, Windows 2008 Server, Ubuntu 12.04 LTS)
+
+The myPREP installation files can be downloaded [download](http://srv3.olanto.org/download/myPREP/MYPREP.zip) (62 Mo).
+
+* SHA1 key: ed84e05ec106527e1c557836a9a817a8
+
+### Tools for Windows
+
+The Java, Tomcat and OpenOffice applications are to be downloaded here [download](http://srv3.olanto.org/download/myPREP/MYPREP.zip) (232 Mb). Please use only these distribution of the applications so as to make sure you have the required version.
+
+* SHA1 key: 2B7DE1A6590E04B241A679451952256834A6C21B
+
+### Tools for GNU/Linux
+
+The OpenOffice file is to be downloaded [here](http://srv3.olanto.org/download/win/install/Tools.zip) (171 Mb). Please use only this distribution of the application so as to make sure you have the required version
+
+* SHA1 key: 2B8071CF3F26C202BB7B0BE1AFD5DC2F21221614
+
+The procedure to perform a standard installation of myPREP is described [here](https://olanto.github.io/docs/Installing_myPREP_V2.0_EN.pdf).
+ 
+### Additional Alignment Maps
+myCAT originally comes with the following alignment maps: English-Arabic, English-French, English-Portuguese, English-Russian, English-Spanish. It is possible to add the following language pairs:
+
+English-German [here](http://srv3.olanto.org/download/maps/ENDE.zip)
+English-Chinese [here](http://srv3.olanto.org/download/maps/ENZH.zip)
+
+Please read the documentation: Adding Alignment Maps in myCAT documentation.
+
+## changelog
+
+This document details the bug fixes and improvements in each new release of the myPREP software.
+
+Version 2.0 Date: 25 June 2013
+* Initial release
+
+## source & licence
+
+Licence AGPL v3 - sources [@GitHub](https://github.com/olanto/MYPREP)
+
+## Documentation
+
+### Installation of myPREP
+myPREP for Windows  (prerequisites here)
+The procedure to perform a standard installation of myPREP on a dedicated server running Windows is described here.
+myPREP for GNU/Linux  (prerequisites here)
+The procedure to perform a standard installation of myPREP on a dedicated server running Ubuntu 12.04 LTS is described here.
+
+
+### Adding Alignment Maps
+myCAT originally comes with the following alignment maps:
+* English-Arabic
+* English-French
+* English-Portuguese
+* English-Russian
+* English-Spanish
+It is possible to add the following language pairs:
+* English-German
+* English-Chinese(experimental, all comments welcome)
+
+Simply download them and unzip them to:
+* for Windows:  C:\MYCAT\map
+* for GNU/Linux:  ~/MYCAT/map
+
+
+### Document Naming Rules
+The corpus of bi-text documents to be used with [myMT](/software/myMT.en.md) should comply with the [following specifications](http://srv3.olanto.org/download/documentation/myCAT_doc_specs.pdf).
+This myMT distribution comes with a very small test corpus of 48 documents allowing to test the following six languages: English, French, Spanish, Arabic, Russian and Chinese. These documents are organized in three collections: UNO, WIPO and WTO. They are all public documents which were downloaded from those organization's websites.
+

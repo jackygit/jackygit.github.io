@@ -1,0 +1,93 @@
+---
+title: "myPREP"
+author: "Olanto"
+
+---
+
+myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.<!--more-->
+
+myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format [Moses](https://www.statmt.org/moses/)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.
+
+myPREP permet aussi l’alignement de corpus comparables. Le résultat de l’alignement est un ensemble de pair de phrases associés à un score, le nombre de termes alignés, la longueur des phrases. Ces paramètres permettent de filtrer les alignements.
+
+myPREP nécessite des corpus de documents segmentés au format texte UTF-8. Le convertisseur et le segmenteur de myCAT sont inclus dans l’installation de myPREP.
+
+myPREP peut être installé aussi bien sous Windows que sous GNU/Linux (testé sous Ubuntu 12.04 LTS); les liens correspondants sont proposés ci-dessous. Quant aux sources, elles sont identiques pour les deux versions.
+
+## Téléchargements
+
+
+myPREP 2.0 pour Windows et GNU/Linux
+(testé sur Windows 7, Windows 2008 Server, Ubuntu 12.04 LTS)
+
+Les fichiers d'installation de myPREP peuvent être téléchargés  [download](http://srv3.olanto.org/download/myPREP/MYPREP.zip) (62 Mo).
+
+* SHA1 key: ed84e05ec106527e1c557836a9a817a8
+
+### Outils pour Windows
+
+Les logiciels Java, Tomcat et OpenOffice peuvent être téléchargés ici [download](http://srv3.olanto.org/download/myPREP/MYPREP.zip) (232 Mb). Il est recommandé de n'employer que ces distributions afin de disposer de la version requise
+
+* SHA1 key: 2B7DE1A6590E04B241A679451952256834A6C21B
+
+### Outils pour GNU/Linux
+
+Les logiciels Java, Tomcat et OpenOffice peuvent être téléchargés [ici](http://srv3.olanto.org/download/win/install/Tools.zip) (171 Mb). Il est recommandé de n'employer que ces distributions afin de disposer de la version requise
+
+* SHA1 key: 2B8071CF3F26C202BB7B0BE1AFD5DC2F21221614
+
+La procédure permettant d'effectuer une installation classique de myPREP est décrite  [ici (anglais)](https://olanto.github.io/docs/Installing_myPREP_V2.0_EN.pdf).
+ 
+### Ajouter des Cartes d'alignement
+La version de base de myCAT est livrée avec les cartes d'alignement suivantes: anglais-arabe, anglais-espagnol, anglais-français, anglais-portugais et anglais-russe. Il est possible d'ajouter les paires de langues suivantes :
+
+Anglais-Allemand [here](http://srv3.olanto.org/download/maps/ENDE.zip)
+Anglais-Chinois [here](http://srv3.olanto.org/download/maps/ENZH.zip)
+
+Veuillez lire la documentation : Ajouter des Cartes d'alignement dans la documentation de myCAT.
+
+## changelog
+
+Détail des modifications
+
+Version 2.0 Date: 25 June 2013
+* Initial release
+
+## source & licence
+
+Licence AGPL v3 - sources [@GitHub](https://github.com/olanto/MYPREP)
+
+## Documentation
+
+### Installation de myPREP
+
+* myPREP pour Windows  ([prérequis ici](http://srv3.olanto.org/download/documentation/prerequise_window_install.pdf) , en anglais)
+La procédure permettant d'effectuer une installation classique de myPREP sur un serveur dédié équipé de Windows est décrite ici ([install](http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf) en anglais).
+* myPREP pour GNU/Linux  ([prérequis ici](http://srv3.olanto.org/download/documentation/prerequise_linux_install.pdf) , en anglais)
+La procédure permettant d'effectuer une installation classique de myPREP sur un serveur dédié équipé de Ubuntu 12.04 LTS est décrite ici ([install](http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf)).
+
+### Ajouter des Cartes d'alignement
+La version de base de myCAT est livrée avec les cartes d'alignement suivantes:
+
+* anglais-arabe
+* anglais-espagnol
+* anglais-français
+* anglais-portugais
+* anglais-russe
+
+Il est possible d'ajouter les paires de langues suivantes :
+
+* anglais-allemand
+* anglais-chinois (expérimental, tous les commentaires sont les bienvenus)
+
+Il suffit de télécharger ces fichiers et de les décompresser dans le dossier :
+
+* pour Windows:  C:\MYCAT\map
+* pour GNU/Linux:  ~/MYCAT/map
+
+
+### Règles de nommage des documents
+Le corpus de documents bi-textes qui sera exploité par [myMT](/software/myMT.en.md) doit être conforme aux [spécifications suivantes](http://srv3.olanto.org/download/documentation/myCAT_doc_specs.pdf).
+
+Cette distribution de myMT contient un très petit corpus de 48 documents qui permet de tester l'application dans les six langues suivantes: anglais, français, espagnol, russe, arabe et chinois. Ces documents sont organisés en trois collections: ONU (UNO), OMPI (WIPO) et OMC (WTO). Ce sont tous des documents publics qui ont été téléchargés depuis le site respectif de ces organisations.
+

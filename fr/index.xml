@@ -9,11 +9,30 @@
     <atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Communication</title>
+      <link>http://example.org/fr/foundation/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/fr/foundation/communication/</guid>
+      <description>&lt;p&gt;Communications sur les projets Olanto&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AsLing 36 - 2014  on terminology  (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Asling-2014.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ToTh - 2015  on terminology explorer (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/how2say%20terminogy%20explorer%20TOTh2015.pdf&#34;&gt;FR document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;TAO - 2015  on alignement (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Olanto-Alignement%20TAO2015.pdf&#34;&gt;FR document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;DTT - 2016  on terminology (&lt;a href=&#34;http://srv3.olanto.org/download/presentation/Terminology%20Management-%20New%20Perspectives%20Symp-DTT-2016.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;WIPO - 2017  on automatic classification (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/AutomaticCategorization2017.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ICSDV 2018  on automatic classification (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/IPCCAT_ICSDV_2018.pdf&#34;&gt;EN document pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://example.org/fr/foundation/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/fr/foundation/contact/</guid>
-      <description>
+      <description>&lt;p&gt;Informations pour contacter Olanto&lt;/p&gt;
 
 &lt;h2 id=&#34;mail&#34;&gt;mail&lt;/h2&gt;
 
@@ -31,8 +50,7 @@
 
 &lt;h2 id=&#34;identification&#34;&gt;identification&lt;/h2&gt;
 
-&lt;p&gt;Numéro d&amp;rsquo;identification fédéral Suisse : CH-660.1.763.012-1&lt;/p&gt;
-</description>
+&lt;p&gt;Numéro d&amp;rsquo;identification fédéral Suisse : CH-660.1.763.012-1&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,9 +58,7 @@
       <link>http://example.org/fr/foundation/foundation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/fr/foundation/foundation/</guid>
-      <description>
-
-&lt;p&gt;Olanto est une Fondation de droit suisse à but non lucratif. Elle est située à Genève mais elle est sous la responsabilité de la Confédération helvétique, à laquelle elle présente son rapport d&amp;rsquo;activité.
+      <description>&lt;p&gt;Olanto est une Fondation de droit suisse à but non lucratif. Elle est située à Genève mais elle est sous la responsabilité de la Confédération helvétique, à laquelle elle présente son rapport d&amp;rsquo;activité.
 Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Comité de soutien et un Comité d&amp;rsquo;experts.&lt;/p&gt;
 
 &lt;p&gt;Olanto a pour mission de créer et distribuer des logiciels libres dans les domaines de la traduction assistée par ordinateur (TAO), de la traduction automatique (TA), de la recherche multilingue et d&amp;rsquo;autres domaines liés aux langues.  Olanto est l&amp;rsquo;acronyme de l&amp;rsquo;expression anglaise &amp;ldquo;Open Language Tools&amp;rdquo; (outils libres de traitement des langues).&lt;/p&gt;
@@ -61,7 +77,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 
 &lt;h3 id=&#34;static-alexandre-jpg-alexandre-poltorak&#34;&gt;&lt;img src=&#34;http://example.org/static/alexandre.jpg&#34; alt=&#34;&#34; /&gt;      Alexandre Poltorak&lt;/h3&gt;
 
-&lt;p&gt;M. Poltorak a fondé une entreprise appelée Alsenet. Il est aussi vice-président de la Free IT Foundation à Genève et directeur du marketing d&amp;rsquo;une entreprise américaine appelée Elphel Inc. qui construit des caméras en associant logiciel et matériel libres.&lt;/p&gt;
+&lt;p&gt;M. Poltorak a fondé une entreprise appelée &lt;a href=&#34;https://www.alsenet.com/&#34;&gt;Alsenet&lt;/a&gt;. Il est aussi vice-président de la &lt;a href=&#34;https://free-it-foundation.org/&#34;&gt;Free IT Foundation&lt;/a&gt; à Genève et directeur du marketing d&amp;rsquo;une entreprise américaine appelée &lt;a href=&#34;https://www.elphel.com/&#34;&gt;Elphel Inc.&lt;/a&gt; qui construit des caméras en associant logiciel et matériel libres.&lt;/p&gt;
 
 &lt;h3 id=&#34;static-gilles-jpg-prof-gilles-falquet&#34;&gt;&lt;img src=&#34;http://example.org/static/gilles.jpg&#34; alt=&#34;&#34; /&gt;         Prof. Gilles Falquet&lt;/h3&gt;
 
@@ -71,8 +87,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 
 &lt;h3 id=&#34;static-nizar-jpg-dr-nizar-ghoula&#34;&gt;&lt;img src=&#34;http://example.org/static/nizar.jpg&#34; alt=&#34;&#34; /&gt; Dr. Nizar Ghoula&lt;/h3&gt;
 
-&lt;p&gt;Nizar (développeur Java/GWT Senior) détient un doctorat en Systèmes d&amp;rsquo;information de l&amp;rsquo;Université de Genève (Suisse). Ses domaines d&amp;rsquo;intérêt sont notamment le web sémantique, la représentation des connaissances, la recherche d&amp;rsquo;information et l&amp;rsquo;alignement des ontologies. Nizar est un très bon développeur Java/GWT qui contribue activement à l&amp;rsquo;effort de développement de la Fondation.&lt;/p&gt;
-</description>
+&lt;p&gt;Nizar (développeur Java/GWT Senior) détient un doctorat en Systèmes d&amp;rsquo;information de l&amp;rsquo;Université de Genève (Suisse). Ses domaines d&amp;rsquo;intérêt sont notamment le web sémantique, la représentation des connaissances, la recherche d&amp;rsquo;information et l&amp;rsquo;alignement des ontologies. Nizar est un très bon développeur Java/GWT qui contribue activement à l&amp;rsquo;effort de développement de la Fondation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,8 +115,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 &lt;li&gt;Téléchargements  (journal)&lt;/li&gt;
 &lt;li&gt;Documentation&lt;/li&gt;
 &lt;li&gt;Sources AGPL v3 @GitHub (link is external)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -128,8 +142,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 &lt;li&gt;Téléchargements  (journal)&lt;/li&gt;
 &lt;li&gt;Documentation&lt;/li&gt;
 &lt;li&gt;Sources AGPL v3 @GitHub (link is external)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -139,7 +152,7 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
       <guid>http://example.org/fr/software/myprep/</guid>
       <description>&lt;p&gt;myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.&lt;/p&gt;
 
-&lt;p&gt;myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format Moses (link is external)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.&lt;/p&gt;
+&lt;p&gt;myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.&lt;/p&gt;
 
 &lt;p&gt;myPREP permet aussi l’alignement de corpus comparables. Le résultat de l’alignement est un ensemble de pair de phrases associés à un score, le nombre de termes alignés, la longueur des phrases. Ces paramètres permettent de filtrer les alignements.&lt;/p&gt;
 
@@ -147,12 +160,97 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
 
 &lt;p&gt;myPREP peut être installé aussi bien sous Windows que sous GNU/Linux (testé sous Ubuntu 12.04 LTS); les liens correspondants sont proposés ci-dessous. Quant aux sources, elles sont identiques pour les deux versions.&lt;/p&gt;
 
+&lt;h2 id=&#34;téléchargements&#34;&gt;Téléchargements&lt;/h2&gt;
+
+&lt;p&gt;myPREP 2.0 pour Windows et GNU/Linux
+(testé sur Windows 7, Windows 2008 Server, Ubuntu 12.04 LTS)&lt;/p&gt;
+
+&lt;p&gt;Les fichiers d&amp;rsquo;installation de myPREP peuvent être téléchargés  &lt;a href=&#34;http://srv3.olanto.org/download/myPREP/MYPREP.zip&#34;&gt;download&lt;/a&gt; (62 Mo).&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Téléchargements  (journal)&lt;/li&gt;
-&lt;li&gt;Documentation&lt;/li&gt;
-&lt;li&gt;Sources AGPL v3 @GitHub (link is external)&lt;/li&gt;
+&lt;li&gt;SHA1 key: ed84e05ec106527e1c557836a9a817a8&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+
+&lt;h3 id=&#34;outils-pour-windows&#34;&gt;Outils pour Windows&lt;/h3&gt;
+
+&lt;p&gt;Les logiciels Java, Tomcat et OpenOffice peuvent être téléchargés ici &lt;a href=&#34;http://srv3.olanto.org/download/myPREP/MYPREP.zip&#34;&gt;download&lt;/a&gt; (232 Mb). Il est recommandé de n&amp;rsquo;employer que ces distributions afin de disposer de la version requise&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SHA1 key: 2B7DE1A6590E04B241A679451952256834A6C21B&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;outils-pour-gnu-linux&#34;&gt;Outils pour GNU/Linux&lt;/h3&gt;
+
+&lt;p&gt;Les logiciels Java, Tomcat et OpenOffice peuvent être téléchargés &lt;a href=&#34;http://srv3.olanto.org/download/win/install/Tools.zip&#34;&gt;ici&lt;/a&gt; (171 Mb). Il est recommandé de n&amp;rsquo;employer que ces distributions afin de disposer de la version requise&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SHA1 key: 2B8071CF3F26C202BB7B0BE1AFD5DC2F21221614&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La procédure permettant d&amp;rsquo;effectuer une installation classique de myPREP est décrite  &lt;a href=&#34;https://olanto.github.io/docs/Installing_myPREP_V2.0_EN.pdf&#34;&gt;ici (anglais)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;ajouter-des-cartes-d-alignement&#34;&gt;Ajouter des Cartes d&amp;rsquo;alignement&lt;/h3&gt;
+
+&lt;p&gt;La version de base de myCAT est livrée avec les cartes d&amp;rsquo;alignement suivantes: anglais-arabe, anglais-espagnol, anglais-français, anglais-portugais et anglais-russe. Il est possible d&amp;rsquo;ajouter les paires de langues suivantes :&lt;/p&gt;
+
+&lt;p&gt;Anglais-Allemand &lt;a href=&#34;http://srv3.olanto.org/download/maps/ENDE.zip&#34;&gt;here&lt;/a&gt;
+Anglais-Chinois &lt;a href=&#34;http://srv3.olanto.org/download/maps/ENZH.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Veuillez lire la documentation : Ajouter des Cartes d&amp;rsquo;alignement dans la documentation de myCAT.&lt;/p&gt;
+
+&lt;h2 id=&#34;changelog&#34;&gt;changelog&lt;/h2&gt;
+
+&lt;p&gt;Détail des modifications&lt;/p&gt;
+
+&lt;p&gt;Version 2.0 Date: 25 June 2013
+* Initial release&lt;/p&gt;
+
+&lt;h2 id=&#34;source-licence&#34;&gt;source &amp;amp; licence&lt;/h2&gt;
+
+&lt;p&gt;Licence AGPL v3 - sources &lt;a href=&#34;https://github.com/olanto/MYPREP&#34;&gt;@GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+
+&lt;h3 id=&#34;installation-de-myprep&#34;&gt;Installation de myPREP&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;myPREP pour Windows  (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/prerequise_window_install.pdf&#34;&gt;prérequis ici&lt;/a&gt; , en anglais)
+La procédure permettant d&amp;rsquo;effectuer une installation classique de myPREP sur un serveur dédié équipé de Windows est décrite ici (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf&#34;&gt;installer&lt;/a&gt; en anglais).&lt;/li&gt;
+&lt;li&gt;myPREP pour GNU/Linux  (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/prerequise_linux_install.pdf&#34;&gt;prérequis ici&lt;/a&gt; , en anglais)
+La procédure permettant d&amp;rsquo;effectuer une installation classique de myPREP sur un serveur dédié équipé de Ubuntu 12.04 LTS est décrite ici (&lt;a href=&#34;http://srv3.olanto.org/download/documentation/Installing_myPREP_V2.0_EN.pdf&#34;&gt;installer&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ajouter-des-cartes-d-alignement-1&#34;&gt;Ajouter des Cartes d&amp;rsquo;alignement&lt;/h3&gt;
+
+&lt;p&gt;La version de base de myCAT est livrée avec les cartes d&amp;rsquo;alignement suivantes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;anglais-arabe&lt;/li&gt;
+&lt;li&gt;anglais-espagnol&lt;/li&gt;
+&lt;li&gt;anglais-français&lt;/li&gt;
+&lt;li&gt;anglais-portugais&lt;/li&gt;
+&lt;li&gt;anglais-russe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il est possible d&amp;rsquo;ajouter les paires de langues suivantes :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;anglais-allemand&lt;/li&gt;
+&lt;li&gt;anglais-chinois (expérimental, tous les commentaires sont les bienvenus)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il suffit de télécharger ces fichiers et de les décompresser dans le dossier :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pour Windows:  C:\MYCAT\map&lt;/li&gt;
+&lt;li&gt;pour GNU/Linux:  ~/MYCAT/map&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;règles-de-nommage-des-documents&#34;&gt;Règles de nommage des documents&lt;/h3&gt;
+
+&lt;p&gt;Le corpus de documents bi-textes qui sera exploité par &lt;a href=&#34;http://example.org/software/myMT.en.md&#34;&gt;myMT&lt;/a&gt; doit être conforme aux &lt;a href=&#34;http://srv3.olanto.org/download/documentation/myCAT_doc_specs.pdf&#34;&gt;spécifications suivantes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cette distribution de myMT contient un très petit corpus de 48 documents qui permet de tester l&amp;rsquo;application dans les six langues suivantes: anglais, français, espagnol, russe, arabe et chinois. Ces documents sont organisés en trois collections: ONU (UNO), OMPI (WIPO) et OMC (WTO). Ce sont tous des documents publics qui ont été téléchargés depuis le site respectif de ces organisations.&lt;/p&gt;</description>
     </item>
     
   </channel>
