@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://example.org/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/about/"
-                />
-  </url>
-  
-  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -32,42 +18,46 @@
   </url>
   
   <url>
-    <loc>http://example.org/documentation/configuration/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/documentation/create-theme/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/documentation/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/documentation/install/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/foundation/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="http://example.org/fr/foundation/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="http://example.org/foundation/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/documentation/quickstart/</loc>
+    <loc>http://example.org/foundation/foundation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundation/foundation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundation/foundation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/foundation/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundation/"
+                />
   </url>
   
   <url>
@@ -82,6 +72,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://example.org/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
                 />
   </url>
   

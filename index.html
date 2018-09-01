@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
-<title>Multilingual Hugo Example</title>
+<title>Olanto Foundation</title>
 <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="http://example.org/index.xml">
 <meta name="created" content="0001-01-01T00:00:00&#43;0000">
 <meta name="modified" content="0001-01-01T00:00:00&#43;0000">
-<meta name="author" content="Fredrik Jonsson">
+<meta name="author" content="Olanto">
 <meta name="description" content="">
-<meta property="og:site_name" content="Multilingual Hugo Example">
-<meta property="og:title" content="Make the Web Fun Again">
+<meta property="og:site_name" content="Olanto Foundation">
+<meta property="og:title" content="Welcome">
 <meta property="og:url" content="http://example.org/">
 
 <meta name="generator" content="Hugo 0.48" />
@@ -24,10 +24,10 @@
     "@context": "http://schema.org",
     "@type": "WebSite",
     "url" : "http://example.org/",
-    "name": "Make the Web Fun Again",
+    "name": "Welcome",
     "author": {
       "@type": "Person",
-      "name": "Fredrik Jonsson"
+      "name": "Olanto"
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -35,7 +35,7 @@
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Multilingual Hugo Example",
+      "name": "Olanto Foundation",
       "url": "http://example.org/",
     }
 </script>
@@ -47,7 +47,7 @@
 <header class="header layout__header" role="banner">
 <a href="/" title="Home" rel="home" class="header__logo"><img src="/images/logo.png" alt="Home" class="header__logo-image"></a>
 <h1 class="header__site-name">
-<a href="/" title="Home" class="header__site-link" rel="home"><span>Multilingual Hugo Example</span></a>
+<a href="/" title="Home" class="header__site-link" rel="home"><span>Olanto Foundation</span></a>
 </h1>
 <div class="region header__region">
 <h2 class="visually-hidden">Language selector</h2>
@@ -69,9 +69,7 @@
 <h2 class="visually-hidden">Main menu</h2>
 <ul class="navbar">
 <li><a class="active" href="/">Home</a></li>
-<li><a class="" href="/about/">About</a></li>
-<li><a class="" href="/contact/">Contact</a></li>
-<li><a class="" href="/documentation/">Documentations</a></li>
+<li><a class="" href="/foundation/">Foundations</a></li>
 </ul>
 </nav>
 
@@ -81,23 +79,39 @@
 <div class="content">
 
 
-<h1 id="hugo">Hugo</h1>
+<h1 id="welcome-to-the-olanto-foundation">Welcome to the Olanto Foundation</h1>
 
-<h2 id="make-the-web-fun-again">Make the Web Fun Again</h2>
+<h2 id="what-are-olanto-s-goals">What are Olanto&rsquo;s Goals</h2>
 
-<p>Introducing Hugo, a new idea for making website creation simple again. Hugo works flexibly with many formats, and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity—it makes building a website fun again.</p>
+<p>The initial goal of Olanto Foundation is to build and share a complete suite of professional CAT tools which should include at least:</p>
 
-<h2 id="run-anywhere">Run Anywhere</h2>
+<ul>
+<li>a Concordancer (Bitext-based search engine);</li>
+<li>a Statistical Machine Translation Tool;</li>
+<li>a Terminology Database Management System;</li>
+<li>an expression explorer within parallel corpora;</li>
+<li>a Translation Memory Management System.</li>
+</ul>
 
-<p>Hugo is quite possibly the easiest software to install you’ve ever used: simply download and run! Hugo doesn’t depend on administrative privileges, databases, runtimes, interpreters or external libraries. Sites built with Hugo can be deployed on S3, GitHub Pages, Dropbox or any web host.</p>
+<p>However Olanto also plans to integrate this CAT Suite with one or several Electronic Document Management Systems (EDMS) and to create other tools, in particular a cross-lingual search engine (you search in English, the tool retrieves hit documents in other languages and translates them back into English) which may be associated with other existing search tools (typically Lucene or Google).</p>
 
-<h2 id="fast-powerful">Fast &amp; Powerful</h2>
+<p>Although a number of open source tools are currently available in the CAT field, they are not integrated in a complete set and thus do not meet the complete chain of needs commonly expressed by Translation Services and Language Service Providers. Additionnally, they generally don&rsquo;t benefit from a robust distribution and support structure and some of them are not really scalable. Olanto was created in order to fill up that gap.</p>
 
-<p>Hugo is designed for speed and performance. Great care has been taken to ensure build time with Hugo is as short as possible. We’re talking milliseconds to build your entire site—for most setups!</p>
+<h2 id="why-do-we-need-a-complete-suite-of-open-source-cat-tools">Why Do We Need a Complete Suite of Open-Source CAT Tools?</h2>
 
-<h2 id="flexible">Flexible</h2>
+<p>The translation business has considerably changed over the past decade. Larger volumes must be translated by smaller full-time teams, the difference being distributed over a network of external translators which are located worldwide. Besides, deadlines are ever tighter and costs must be reduced.</p>
 
-<p>Hugo is designed to work the way you do. Organize your content however you want with any URL structure. Group your content using your own indexes and categories. Define your own metadata in any format: YAML, TOML or JSON. Best of all, Hugo handles all these variations with virtually no configuration. Hugo just works.</p>
+<p>As a result, the complete translation workflow must be transformed in order to automate every possible step and thus to accelerate the processes and reduce the cost at each step: submitting a document for translation, affecting the translation to a translator, performing the translation, performing the quality control steps,  sending back the translation to the customer and feeding the CAT tools with the new document pair and/or related segments. This generally requires adding a new step upfront, which is a pre-translation process.</p>
+
+<p>A complete suite of CAT tools is needed to support every phase of this new workflow. Such a suite should be integrated so as to ensure the interoperability of the various tools, a seamless transition between each step, and a smooth interfacing with the customer&rsquo;s IT environment. It should be distributed as free software so as to get rid of the license costs (which prevent customers from extending the tool to all their external translators) and to ensure a better quality and transparency of the code.</p>
+
+<h2 id="why-do-we-need-cross-lingual-tools">Why Do We Need Cross-Lingual Tools ?</h2>
+
+<p>The language barrier is one of the main issues in developing an international business. It is of the utmost importance to carefully control your communication in foreign languages, both for legal and marketing reasons.</p>
+
+<p>Additionally, the English proportion of the Internet content is steadily reducing, while languages such as Spanish, Russian and Chinese are growing fast. If you keep searching in English only you are guaranteed to miss a growing number of key documents.</p>
+
+<p>Olanto is meant to provide open-source tools to face these new challenges</p>
 
 </div>
 </article>
@@ -107,19 +121,17 @@
 
 <aside class="sidebar layout__second-sidebar" role="complementary">
 <section>
-<h4 class="menu"><a class="" href="/documentation/">Documentations</a></h4>
+<h4 class="menu"><a class="" href="/foundation/">Foundations</a></h4>
 <ul class="menu">
-<li><a class="" href="/documentation/configuration/">Configuration</a></li>
-<li><a class="" href="/documentation/create-theme/">Create a theme</a></li>
-<li><a class="" href="/documentation/install/">Installation</a></li>
-<li><a class="" href="/documentation/quickstart/">Quickstart</a></li>
+<li><a class="" href="/foundation/contact/">Contact</a></li>
+<li><a class="" href="/foundation/foundation/">Foundation</a></li>
 </ul>
 </section>
 </aside>
 
 
 <footer class="footer layout__footer" role="contentinfo">
-<p><span>© Multilingual Hugo Example</span></p>
+<p><span>© Olanto Foundation</span></p>
 
 
 </footer>

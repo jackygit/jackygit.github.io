@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bienvenue on Olanto Fondation</title>
-    <link>http://example.org/fr/</link>
-    <description>Recent content in Bienvenue on Olanto Fondation</description>
+    <title>Foundations on Olanto Fondation</title>
+    <link>http://example.org/fr/foundation/</link>
+    <description>Recent content in Foundations on Olanto Fondation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/fr/foundation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact</title>

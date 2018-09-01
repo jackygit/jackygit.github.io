@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/fr/about/</loc>
+    <loc>http://example.org/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/"
+                href="http://example.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/about/"
+                href="http://example.org/fr/"
                 />
   </url>
   
@@ -32,17 +32,45 @@
   </url>
   
   <url>
-    <loc>http://example.org/fr/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/fr/foundation/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="http://example.org/foundation/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="http://example.org/fr/foundation/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/fr/foundation/foundation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundation/foundation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundation/foundation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/fr/foundation/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundation/"
                 />
   </url>
   
