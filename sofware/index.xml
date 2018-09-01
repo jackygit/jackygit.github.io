@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sofwares on Olanto Foundation</title>
+    <link>http://example.org/sofware/</link>
+    <description>Recent content in Sofwares on Olanto Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/sofware/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>myCAT</title>
+      <link>http://example.org/sofware/mycat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/sofware/mycat/</guid>
+      <description>&lt;p&gt;myCAT is a concordancer, i.e. a full-text search engine which, in addition to showing the relevant documents, also shows their translation (if they were previously translated) and automatically aligns the source and target language versions on the occurrences of the terms which is being searched.&lt;/p&gt;
+
+&lt;p&gt;myCAT includes two modules:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a Text Aligner&lt;/li&gt;
+&lt;li&gt;a Quote Detector&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Text Aligner displays and automatically aligns the source language and the target language versions of a given document.&lt;/p&gt;
+
+&lt;p&gt;The Quote Detector compares a document to be translated with the complete corpus of previously-translated documents and detects all parts of sentences (or full sentences or paragraphs) which may be quoted from other documents. It then displays and aligns the source and target versions of that reference document.&lt;/p&gt;
+
+&lt;p&gt;What makes myCAT unique is that its automatic alignment feature is based on alignment maps which are built with &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;, a Statistical Machine Translation engine. myCAT can be used in any language combination; if no alignment map was built for a given language pair, a geometrical alignment algorithm will be used by default.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Online demonstration&lt;/li&gt;
+&lt;li&gt;Downloads  (changelog)&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;AGPL v3 sources @GitHub (link is external)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -36,33 +36,6 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://example.org/fr/foundationx/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/foundationx/contact/</guid>
-      <description>
-
-&lt;h2 id=&#34;mail&#34;&gt;mail&lt;/h2&gt;
-
-&lt;p&gt;Si vous souhaitez contacter Olanto, veuillez envoyer un courriel à jacques@olanto.org.&lt;/p&gt;
-
-&lt;h2 id=&#34;adresse&#34;&gt;adresse&lt;/h2&gt;
-
-&lt;p&gt;Fondation Olanto&lt;/p&gt;
-
-&lt;p&gt;10 Chemin de Champ-Claude&lt;/p&gt;
-
-&lt;p&gt;1214 Vernier (Genève)&lt;/p&gt;
-
-&lt;p&gt;Suisse&lt;/p&gt;
-
-&lt;h2 id=&#34;identification&#34;&gt;identification&lt;/h2&gt;
-
-&lt;p&gt;Numéro d&amp;rsquo;identification fédéral Suisse : CH-660.1.763.012-1&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fondation</title>
       <link>http://example.org/fr/foundation/foundation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,42 +76,54 @@ Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Co
     </item>
     
     <item>
-      <title>Fondation</title>
-      <link>http://example.org/fr/foundationx/foundation/</link>
+      <title>myCAT</title>
+      <link>http://example.org/fr/sofware/mycat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/foundationx/foundation/</guid>
-      <description>
+      <guid>http://example.org/fr/sofware/mycat/</guid>
+      <description>&lt;p&gt;myCAT est un concordancier, c&amp;rsquo;est-à-dire un moteur de recherche qui, en plus d&amp;rsquo;afficher des documents pertinents, montre également leur traduction (s&amp;rsquo;ils ont déjà été traduits) et aligne automatiquement les versions en langue source et en langue cible sur les occurrences des termes recherchés.&lt;/p&gt;
 
-&lt;p&gt;Olanto est une Fondation de droit suisse à but non lucratif. Elle est située à Genève mais elle est sous la responsabilité de la Confédération helvétique, à laquelle elle présente son rapport d&amp;rsquo;activité.
-Olanto est gérée par un Conseil de Fondation, qui s&amp;rsquo;appuie sur un Comité de soutien et un Comité d&amp;rsquo;experts.&lt;/p&gt;
+&lt;p&gt;myCAT comporte deux modules :&lt;/p&gt;
 
-&lt;p&gt;Olanto a pour mission de créer et distribuer des logiciels libres dans les domaines de la traduction assistée par ordinateur (TAO), de la traduction automatique (TA), de la recherche multilingue et d&amp;rsquo;autres domaines liés aux langues.  Olanto est l&amp;rsquo;acronyme de l&amp;rsquo;expression anglaise &amp;ldquo;Open Language Tools&amp;rdquo; (outils libres de traitement des langues).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;un aligneur de textes (Text Aligner)&lt;/li&gt;
+&lt;li&gt;un détecteur de citations (Quote Detector)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&#34;conseil-de-fondation&#34;&gt;Conseil de Fondation&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;aligneur de textes affiche et aligne automatiquement les versions source et cible d&amp;rsquo;un document donné.&lt;/p&gt;
 
-&lt;p&gt;Le Conseil de Fondation se compose des personnes suivantes :&lt;/p&gt;
+&lt;p&gt;Le détecteur de citations compare un document à traduire avec l&amp;rsquo;ensemble des documents déjà traduits auparavant pour détecter d&amp;rsquo;éventuels passages repris. Il affiche et aligne ensuite les versions source et cible de ce document de référence.&lt;/p&gt;
 
-&lt;h3 id=&#34;static-jacques-jpg-dr-jacques-guyot&#34;&gt;&lt;img src=&#34;http://example.org/static/jacques.jpg&#34; alt=&#34;&#34; /&gt; Dr. Jacques Guyot&lt;/h3&gt;
+&lt;p&gt;Ce qui rend myCAT unique, c&amp;rsquo;est que sa fonction d&amp;rsquo;alignement automatique repose sur des cartes d&amp;rsquo;alignement qui sont construites avec &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;, un outil de traduction automatique statistique. myCAT peut être employé pour n&amp;rsquo;importe quelle combinaison de langues; si aucune carte d&amp;rsquo;alignement n&amp;rsquo;a été établie pour la paire de langues considérée, un algorithme d&amp;rsquo;alignement géométrique sera employé par défaut.&lt;/p&gt;
 
-&lt;p&gt;M. Guyot est ingénieur en informatique. Depuis plus de 20 ans, il crée des progiciels en exploitant des technologies de pointe. Il est également chercheur à l&amp;rsquo;Université de Genève. Il est titulaire d&amp;rsquo;un doctorat en informatique de l&amp;rsquo;Université de Genève&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Démonstration en ligne&lt;/li&gt;
+&lt;li&gt;Téléchargements  (journal)&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Sources AGPL v3 @GitHub (link is external)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>myPREP</title>
+      <link>http://example.org/fr/sofware/myprep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/fr/sofware/myprep/</guid>
+      <description>&lt;p&gt;myPREP est un aligneur de textes, c’est-à-dire un outil qui permet d’aligner automatique deux à deux les documents dans un corpus multilingue. Le résultat de l’alignement est une mémoire de traduction au format TMX. L’alignement se fait au niveau phrase.&lt;/p&gt;
 
-&lt;h3 id=&#34;static-karim-jpg-karim-benzineb&#34;&gt;&lt;img src=&#34;http://example.org/static/karim.jpg&#34; alt=&#34;&#34; /&gt;  Karim Benzineb&lt;/h3&gt;
+&lt;p&gt;myPREP permet aussi la production de corpus d’entraînement pour la traduction statistique (format Moses (link is external)). Ces corpus sont divisés en plusieurs parties permettant l’entraînement, le réglage et l’évaluation.&lt;/p&gt;
 
-&lt;p&gt;M. Benzineb est traducteur et spécialiste de linguistique informatique. Il a plus de12 ans d&amp;rsquo;expérience dans la conception et l&amp;rsquo;installation de logiciels de TAO pour des services et des entreprises de traduction. Il est diplômé en traduction et en linguistique informatique et détient également un MBA de l&amp;rsquo;Université de Genève.&lt;/p&gt;
+&lt;p&gt;myPREP permet aussi l’alignement de corpus comparables. Le résultat de l’alignement est un ensemble de pair de phrases associés à un score, le nombre de termes alignés, la longueur des phrases. Ces paramètres permettent de filtrer les alignements.&lt;/p&gt;
 
-&lt;h3 id=&#34;static-alexandre-jpg-alexandre-poltorak&#34;&gt;&lt;img src=&#34;http://example.org/static/alexandre.jpg&#34; alt=&#34;&#34; /&gt;      Alexandre Poltorak&lt;/h3&gt;
+&lt;p&gt;myPREP nécessite des corpus de documents segmentés au format texte UTF-8. Le convertisseur et le segmenteur de myCAT sont inclus dans l’installation de myPREP.&lt;/p&gt;
 
-&lt;p&gt;M. Poltorak a fondé une entreprise appelée Alsenet. Il est aussi vice-président de la Free IT Foundation à Genève et directeur du marketing d&amp;rsquo;une entreprise américaine appelée Elphel Inc. qui construit des caméras en associant logiciel et matériel libres.&lt;/p&gt;
+&lt;p&gt;myPREP peut être installé aussi bien sous Windows que sous GNU/Linux (testé sous Ubuntu 12.04 LTS); les liens correspondants sont proposés ci-dessous. Quant aux sources, elles sont identiques pour les deux versions.&lt;/p&gt;
 
-&lt;h3 id=&#34;static-gilles-jpg-prof-gilles-falquet&#34;&gt;&lt;img src=&#34;http://example.org/static/gilles.jpg&#34; alt=&#34;&#34; /&gt;         Prof. Gilles Falquet&lt;/h3&gt;
-
-&lt;p&gt;GM. Falquet est professeur et chercheur au Centre universitaire d&amp;rsquo;informatique de l&amp;rsquo;Université de Genève. Ses recherches portent surtout sur l&amp;rsquo;accès aux connaissances, et notamment sur l&amp;rsquo;utilisation des bases de connaissances pour l&amp;rsquo;indexation sémantique et la recherche d&amp;rsquo;information. Il est titulaire d&amp;rsquo;un doctorat en informatique de l&amp;rsquo;Université de Genève.&lt;/p&gt;
-
-&lt;h2 id=&#34;olanto-consultants&#34;&gt;Olanto Consultants&lt;/h2&gt;
-
-&lt;h3 id=&#34;static-nizar-jpg-dr-nizar-ghoula&#34;&gt;&lt;img src=&#34;http://example.org/static/nizar.jpg&#34; alt=&#34;&#34; /&gt; Dr. Nizar Ghoula&lt;/h3&gt;
-
-&lt;p&gt;Nizar (développeur Java/GWT Senior) détient un doctorat en Systèmes d&amp;rsquo;information de l&amp;rsquo;Université de Genève (Suisse). Ses domaines d&amp;rsquo;intérêt sont notamment le web sémantique, la représentation des connaissances, la recherche d&amp;rsquo;information et l&amp;rsquo;alignement des ontologies. Nizar est un très bon développeur Java/GWT qui contribue activement à l&amp;rsquo;effort de développement de la Fondation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Téléchargements  (journal)&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Sources AGPL v3 @GitHub (link is external)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
