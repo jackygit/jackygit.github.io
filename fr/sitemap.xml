@@ -119,7 +119,31 @@
   </url>
   
   <url>
+    <loc>http://example.org/fr/sofware/mymt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/sofware/mymt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/sofware/mymt/"
+                />
+  </url>
+  
+  <url>
     <loc>http://example.org/fr/sofware/myprep/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/sofware/myprep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/sofware/myprep/"
+                />
   </url>
   
 </urlset>

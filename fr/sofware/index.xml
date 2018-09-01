@@ -38,6 +38,34 @@
     </item>
     
     <item>
+      <title>myMT</title>
+      <link>http://example.org/fr/sofware/mymt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/fr/sofware/mymt/</guid>
+      <description>&lt;p&gt;myMT est un outil de traduction automatique basé sur le logiciel libre de traduction statistique &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;. Une démonstration est accessible ici (&lt;a href=&#34;http://srv2.olanto.org/WebTranslator/&#34;&gt;Demo&lt;/a&gt;) (la démonstration est basée sur le corpus Textes parallèles multilingues 2000-2009 des Nations Unies  anglais/français).&lt;/p&gt;
+
+&lt;p&gt;myMT est composé de deux parties : les serveurs de traduction (back-end) et le serveur de gestion (front-end).  Sur les serveurs de traduction sont stockés les modèles de traduction et assurent la traduction. Le serveur de gestion assure le découpage en phrase des textes à traduire et gère les traductions en fonction des langues.&lt;/p&gt;
+
+&lt;p&gt;myMT permet de construire des infrastructures complexe possédant de nombreux serveurs de traduction permettant de traduire simultanément plusieurs phrases à la fois et de gérer plusieurs couple de langues. La spécification de la configuration est faite dans un seul fichier XML. Le démarrage et la maintenance est automatisée.&lt;/p&gt;
+
+&lt;p&gt;myMT met à disposition une interface graphique accessible avec un navigateur qui permet à l’utilisateur de sélectionner les langues de la traduction, de sélectionner (ou télécharger) le texte à traduire. Le résultat de la traduction peut être retourné par email.&lt;/p&gt;
+
+&lt;p&gt;myMT convertit les documents en texte pour la traduction. Il supporte aussi la traduction de document .docx en préservant la mise en page. Il est aussi possible de l’utiliser avec .sdlxliff.&lt;/p&gt;
+
+&lt;p&gt;Le serveur de traduction peut aussi être utilisé pour construire de nouveaux modèles de traduction. myPREP peut être utilisé pour créer les corpus d’entrainement.&lt;/p&gt;
+
+&lt;p&gt;myMT peut être installé aussi bien sous Windows que sous GNU/Linux (Ubuntu); les liens correspondants sont proposés ci-dessous. Quant aux sources, elles sont identiques pour les deux versions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Démonstration en ligne (link is external)&lt;/li&gt;
+&lt;li&gt;Téléchargements  (journal)&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Sources AGPL v3 @GitHub (link is external)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>myPREP</title>
       <link>http://example.org/fr/sofware/myprep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

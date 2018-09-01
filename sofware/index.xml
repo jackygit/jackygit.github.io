@@ -37,5 +37,56 @@
 </description>
     </item>
     
+    <item>
+      <title>myMT</title>
+      <link>http://example.org/sofware/mymt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/sofware/mymt/</guid>
+      <description>&lt;p&gt;myMT is an automatic translation tool based on &lt;a href=&#34;https://www.statmt.org/moses/&#34;&gt;Moses&lt;/a&gt;, i.e. the open-source statistical translation software. A demonstration version is available here (&lt;a href=&#34;http://srv2.olanto.org/WebTranslator/&#34;&gt;Demo&lt;/a&gt;) (the demonstration is based on The United Nations&amp;rsquo; Multilingual Parallel Text 2000-2009 , English/French).&lt;/p&gt;
+
+&lt;p&gt;myMT is composed of two parts: the translation servers (back-end) and the management server (front-end). The translation models are stored on the translation servers that are responsible for the translation. The management server is responsible for the division into sentences of texts to be translated and manages the translations depending on the languages.&lt;/p&gt;
+
+&lt;p&gt;myMT makes possible the construction of complex infrastructures that have numerous translation servers enabling the simultaneous translation of several sentences at once and the management of several language pairs. The specification of the configuration is done in one XML file. The start-up and the maintenance are automated.&lt;/p&gt;
+
+&lt;p&gt;myMT provides a graphical interface accessible with a browser that enables the user to select translation languages, to select (or download) the text to be translated. The outcome of the translation can be sent by e-mail.&lt;/p&gt;
+
+&lt;p&gt;myMT converts the documents into texts for the translation. It is also compatible with the translation of .docx documents while preserving the page layout. It is also possible to use it with .sdlxliff.&lt;/p&gt;
+
+&lt;p&gt;The translation server may also be used to build new translation models. myPREP can be used to create the training corpora.&lt;/p&gt;
+
+&lt;p&gt;myMT is available both for Windows and for GNU/Linux (Ubuntu); please find the links to the respective installation files below. As for the sources, they are the same for both versions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Online demonstration (link is external)&lt;/li&gt;
+&lt;li&gt;Downloads  (changelog)&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;AGPL v3 sources @GitHub (link is external)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>myPREP</title>
+      <link>http://example.org/sofware/myprep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/sofware/myprep/</guid>
+      <description>&lt;p&gt;myPREP is a text aligner software, a tool which makes possible to automatically align two by two the documents in a multilingual corpus. The outcome of the alignment is a translation memory in TMX format. The alignment is done at the sentence level.&lt;/p&gt;
+
+&lt;p&gt;Thanks to myPREP, the production of training corpus for statistical translation is also possible (in Moses (link is external) format). Such corpora are divided into several parts for the training, the tuning and the evaluation.&lt;/p&gt;
+
+&lt;p&gt;myPREP also makes possible the alignment of comparable corpora. The outcome of the alignment is a set of pair of sentences associated with a score, the number of aligned terms, and the length of sentences. These functions can control the alignments.&lt;/p&gt;
+
+&lt;p&gt;myPREP requires segmented documents corpora in UTF-8 format. The converter and the segmentation tool of the myCAT software are included in the installation of myPREP.&lt;/p&gt;
+
+&lt;p&gt;myPREP is available for both Windows and for GNU/Linux (Ubuntu 12.04); please find the links to the respective installation files below. As for the sources, they are the same for both versions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Downloads  (changelog)&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;AGPL v3 sources @GitHub (link is external)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
