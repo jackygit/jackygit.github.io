@@ -32,6 +32,20 @@
   </url>
   
   <url>
+    <loc>http://example.org/foundationx/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundationx/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundationx/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>http://example.org/foundation/foundation/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,6 +56,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://example.org/foundation/foundation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/foundationx/foundation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundationx/foundation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundationx/foundation/"
                 />
   </url>
   
@@ -57,6 +85,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://example.org/foundation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/foundationx/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/foundationx/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/foundationx/"
                 />
   </url>
   
